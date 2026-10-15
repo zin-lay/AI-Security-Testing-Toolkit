@@ -1,3 +1,0 @@
-garak
-transformers
-sentence-transformers
